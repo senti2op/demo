@@ -1,6 +1,6 @@
 # demo
-this is demo for git &amp; github.
+this is demo for git &amp; github
 
-gloster 
-hello
-hello 
+
+
+not working at all
