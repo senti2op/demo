@@ -21,3 +21,11 @@ and understanding the our App
 And set up local environment 
 hello
 
+
+currently i work on the javascript and today i learn about the javascript data type also the heap and stack 
+
+stck is primitive 
+heap is non primittive also known as reference type of data save 
+
+now i currently work on Strings 
+
