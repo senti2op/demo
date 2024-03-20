@@ -29,3 +29,5 @@ heap is non primittive also known as reference type of data save
 
 now i currently work on Strings 
 
+also on array and object 
+
